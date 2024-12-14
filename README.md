@@ -37,15 +37,15 @@ Dengan antarmuka yang user-friendly dan teknologi terintegrasi, **Go-Wash Clean*
 ## Tangkapan Layar Komponen Penting Produk
 
 ### Halaman Home
-![Halaman Home](D:/SEMESTER%205/Prak%20PG%20Bergerak%20Lanjut/Responsi%20PGPBL/home.jpg)
+![Halaman Home](home.jpg)
 
 ### Halaman Map
-![Halaman Map](D:/SEMESTER%205/Prak%20PG%20Bergerak%20Lanjut/Responsi%20PGPBL/map.jpg)
+![Halaman Map](map.jpg)
 
 ### Halaman Pick-Up
-![Halaman Pick-Up](D:/SEMESTER%205/Prak%20PG%20Bergerak%20Lanjut/Responsi%20PGPBL/pickup.jpg)
+![Halaman Pick-Up](pickup.jpg)
 
 ### Halaman Account
-![Halaman Account](D:/SEMESTER%205/Prak%20PG%20Bergerak%20Lanjut/Responsi%20PGPBL/account.jpg)
+![Halaman Account](account.jpg)
 
 ---
