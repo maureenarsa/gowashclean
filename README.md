@@ -36,16 +36,11 @@ Dengan antarmuka yang user-friendly dan teknologi terintegrasi, **Go-Wash Clean*
 
 ## Tangkapan Layar Komponen Penting Produk
 
-### Halaman Home
-![Halaman Home](home.jpg)
-
-### Halaman Map
-![Halaman Map](map.jpg)
-
-### Halaman Pick-Up
-![Halaman Pick-Up](pickup.jpg)
-
-### Halaman Account
-![Halaman Account](account.jpg)
+<div align="center">
+  <img src="C:/xampp/htdocs/gowashclean/home.jpg" alt="Halaman Home" width="200" />
+  <img src="C:/xampp/htdocs/gowashclean/map.jpg" alt="Halaman Map" width="200" />
+  <img src="C:/xampp/htdocs/gowashclean/pickup.jpg" alt="Halaman Pick-Up" width="200" />
+  <img src="C:/xampp/htdocs/gowashclean/account.jpg" alt="Halaman Account" width="200" />
+</div>
 
 ---
